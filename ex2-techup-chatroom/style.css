@@ -1,1 +1,61 @@
 /* Start coding here */
+.teamname{
+    height: 30px;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+
+}
+
+.chatbox{
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+    text-align: left;
+    color: black;
+    position: absolute;
+    border-radius: 45px;
+}
+
+#chat-1{
+    background-color: rgb(14, 206, 14);
+    top: 50px;
+   right: 10px;
+}
+
+#chat-2{
+background-color: lightgray;
+top: 90px;
+right: 10px;
+}
+
+#chat-3{
+    background-color: rgb(14, 206, 14);
+    top: 130px;
+    right: 10px;
+}
+
+#chat-4{
+    background-color: gray;
+    top: 170px;
+}
+
+#chat-5
+{
+    background-color: gray;
+    top: 210px;
+}
+
+.x{
+    height: 20px;
+    width: 20px;
+    font-size: 15px;
+    text-align: center;
+    background-color: gray;
+    color: white;
+    position: absolute;
+    border-radius: 45px;
+    top: 85px;
+    right: 10px;
+}

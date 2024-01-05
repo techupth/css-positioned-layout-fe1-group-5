@@ -3,3 +3,25 @@ body {
 }
 
 /* Start coding here */
+.ontop{
+  background-color: grey;
+  color: white;
+  width: 50px;
+  height: 20px;
+  border-radius: 2px ;
+  border-color: white;
+  padding: 10px;
+  position: relative;
+  bottom: 300px;
+  left: 550px;
+}
+
+.onbottom{
+  color: white;
+  width: 100%;
+  height: 20px;
+  padding: 10px;
+  position: relative;
+  bottom: 40px;
+  left: 10px;
+}
