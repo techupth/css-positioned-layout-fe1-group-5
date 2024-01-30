@@ -3,3 +3,34 @@ body {
 }
 
 /* Start coding here */
+.background {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+
+.border-image {
+  border: 10px solid white;
+}
+
+.tea {
+  color: white;
+  font-size: 20px;
+  position: relative;
+  right: 620px;
+  top: 140px;
+}
+
+.location {
+  font-size: 25px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  position: relative;
+  right: 390px;
+  bottom: 100px;
+}
